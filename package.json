@@ -1,0 +1,20 @@
+{
+  "name": "s3engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.154.0",
+    "@aws-sdk/lib-storage": "^3.154.0",
+    "pixl-cache": "^1.0.6",
+    "pixl-class": "^1.0.3",
+    "pixl-server": "^1.0.39",
+    "pixl-tools": "^1.0.33"
+  }
+}
