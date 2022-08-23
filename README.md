@@ -23,7 +23,7 @@ This is updated Cronicle S3 Engine which is using version 3 of AWS SDK. Current 
 
 ## Cronicle Configuration
 
-This engine will have slighly different config then original one. Use below template to update your config.json
+This engine will have slightly different config than original one. Use below template to update your config.json
 
 ```json
     "Storage": {
